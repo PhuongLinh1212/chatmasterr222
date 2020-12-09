@@ -1,0 +1,45 @@
+{
+  "ads": {
+    "id_app": "5fbdfa47d1c04c042b15137c",
+    "banner_setting": "ca-app-pub-3399710561924220/7626842450",
+    "inter_setting": "ca-app-pub-3399710561924220/2103053037",
+    "banner_main": "ca-app-pub-3399710561924220/2035797942",
+    "inter_main": "ca-app-pub-3399710561924220/8476889694",
+    "fb_banner": "",
+    "fb_inter": "",
+    "banner_setting_new": "",
+    "inter_setting_new": "",
+    "banner_main_new": "",
+    "inter_main_new": "",
+    "onlyAdmod": true,
+    "onlyFB": false
+  },
+  "app_exists": {
+    "id": "",
+    "is_exists": true,
+    "is_show_more": false,
+    "isShowAds":false
+  },
+  "apps": [
+    {
+      "id": "com.videocall.scaryteacher.v2",
+      "icon": "https://lh3.googleusercontent.com/XMdWFr0sWpnqTNeh4DFJtBLqNv5X9BLvnKb5GIkEXUQREC9L_yMe44CvzPvCiBmWG2t-=s360-rw",
+      "name": "Scary Techer Video Call - Call Scary Techer Prank2",
+      "des": "Welcome to Scary Techer Video Call & Chat Simulator Prank2 this app will allow you to receive a call from your favorite scary Teacher 3d : gaveling gary, thierry teacher, kavita teacher, skier teacher..."
+    }
+  ],
+  "like_page": [
+    {
+      "linkImage": "https://www.linkpicture.com/q/banner_fb.png",
+      "linkClick": "https://shopee.vn/shop/103322288"
+    },
+    {
+      "linkImage": "https://www.linkpicture.com/q/banner_shopee.png",
+      "linkClick": "https://banhang.shopee.vn/portal/product/6344686659/"
+    },
+    {
+      "linkImage": "https://www.linkpicture.com/q/banner_shopee_2.png",
+      "linkClick": "https://www.facebook.com/%C3%81o-thun-1796474033956276"
+    }
+  ]
+}
