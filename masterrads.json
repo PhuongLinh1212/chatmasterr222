@@ -16,7 +16,7 @@
   },
   "app_exists": {
     "id": "com.chat.master.chatmaster.chat.masterhelper.master",
-    "is_exists": false,
+    "is_exists": true,
     "is_show_more": false,
     "isShowAds":true
   },
